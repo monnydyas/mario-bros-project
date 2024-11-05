@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Super Mario World";
-    src: url(/fontes/SuperMarioWorld.ttf);
+    src: url(./fontes/SuperMarioWorld.ttf);
 }
 
 @keyframes animarInimigo {
@@ -58,7 +58,7 @@
     position: relative;
     width: 100vw;
     height: 100vh;
-    background-image: url(/img/cenario.png);
+    background-image: url(./img/cenario.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
@@ -72,7 +72,7 @@
     position: absolute;
     width: 100vw;
     height: 100vh;
-    background-image: url(/img/cenarioceu.png);
+    background-image: url(./img/cenarioceu.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
@@ -82,7 +82,7 @@
     position: absolute;
     width: 60px;
     height: 60px;
-    background-image: url(/img/marioParadoLadoDireito.png);
+    background-image: url(./img/marioParadoLadoDireito.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: 0 0;
@@ -94,7 +94,7 @@
     position: absolute;
     width: 60px;
     height: 60px;
-    background-image: url(/img/inimigoLadoEsquerdo.gif);
+    background-image: url(./img/inimigoLadoEsquerdo.gif);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: 0 0;
@@ -106,7 +106,7 @@
     position: absolute;
     width: 1000px;
     height: 150px;
-    background-image: url(/img/menuDoJogo.png);
+    background-image: url(./img/menuDoJogo.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: 0 0;
@@ -145,7 +145,7 @@
     position: absolute;
     width: 65px;
     height: 65px;
-    background-image: url(/img/bloco.png);
+    background-image: url(./img/bloco.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: 0 0;
